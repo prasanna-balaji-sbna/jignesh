@@ -1,3 +1,4 @@
 1. Line 1 is created
 2. Line 2 is added
 3. Line 3 is added
+4. New line after deleted
